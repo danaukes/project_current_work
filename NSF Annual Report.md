@@ -131,14 +131,31 @@ I have embarked on a number of new initiatives surrounding this project.
 
 First, I currently teach _Foldable Robotics_, a graduate-level course that introduces the concept of rapidly-prototypable, multi-material, compliant robots to students.  This course draws directly upon topics from my current research for its curriculum while training the students who take it for performing research in my lab, or labs like mine. It also serves as a testing ground for determining the effectiveness of foldable robotics as a teaching approach through IRB-approved data collection in conjunction with ASU CREST(https://crest.asu.edu/). Other direct connections can be seen in course projects, which often generate critical “preliminary results”, demonstrating feasibility that I can then point to in proposals; this has previously resulted in both new funding and IP generation. Most notably, 24 of my published, refereed papers are co-authored by students who have taken my graduate foldable robots courses in the past.  I anticipate this number to grow substantially over the course of this current project.
 
-CREST's final report from _Foldable Robotics 2021_ as well as the mid-semester and final report from _Foldable Robotics 2022_ are attached in supplemental documents.  These reports will be used in improving the curriculum in future iterations of the course.
+CREST's final report from _Foldable Robotics 2021_ as well as the mid-semester and final report from _Foldable Robotics 2022_ are attached in supplemental documents.  These reports will be used to improve the curriculum in future iterations of the course.
 
-My second initiative this year was to serve as a mentor for a Senior Capstone team, for the purposes of developing a kit of parts and teaching plan surrounding the topic of Foldable Robotics.  This team was provided suppplementary funding through this CAREER project.  As part of this effort, I met with the team every three weeks to discuss their progress, provide feedback, and guide their project.  Through this project, students applied their knowledge of the engineering design process to speak with stakeholders, develop specifications, ideate and brainstorm design concepts, create prototypes, obtain feedback from stakeholders, and revise their designs.  
+My second initiative this year was to serve as a mentor for a senior engineering capstone team, for the purposes of developing a kit of parts and teaching plan for a summer camp aimed at middle schoolers, surrounding the topic of Foldable Robotics.  This team was provided suppplementary funding through this CAREER project in order to complete their project.  As part of this effort, I met with the team roughly every three weeks to discuss their progress, provide feedback, and guide their project.  Through this project, students applied their knowledge of the engineering design process to speak with stakeholders, develop specifications, ideate and brainstorm design concepts, create prototypes, obtain feedback from stakeholders, and revise their designs.  They were able to present their proposed kit of parts and lesson plan to this summer's camp teaching team and obtain valuable feedback based on the teachers' level of comfort with the topics and technology involved.
 
-A fourth iniative directly related with this project was serving as a Faculty mentor to two high school students participating in Arizona State University's SCENE program (https://eoss.asu.edu/access/scene).  In the SCENE program, high school students "work in state-of-the art labs at Arizona State University, under the guidance of professors and university students, to answer their own original research questions and compete in regional and national science competitions."  The topics of the two mentorships revolved around using foldable robotics themes to answer students' individual research questions.
+A third iniative related to this project was serving as a thesis advisor for a senior honors thesis through ASU's Barrett honors college.  This student thesis focused on the issue of integrating data collection into the design of foldable-robotics-inspired curriculum for elementary and middle school students, developing an IRB for collecting data from parents and teachers, and using their data-collection experience in providing a framework for executing IRB-approved surveys in future years.
 
-Fin
+A fourth iniative directly related with this project was serving as a faculty mentor to two high school students participating in Arizona State University's SCENE program (https://eoss.asu.edu/access/scene).  In the SCENE program, high school students "work in state-of-the art labs at Arizona State University, under the guidance of professors and university students, to answer their own original research questions and compete in regional and national science competitions."  The topics of the two mentorships revolved around using foldable robotics themes to answer students' individual research questions for a health care and space application, respectively.
 
+Finally, as mentioned previously, I am organizing a "foldable robotics day camp" to be held in June 2022.  19 students, ages 14-17, are currently enrolled in this one-week, full-day session, and up to 25 students will participate the following week in a similar session organized by ASU's Barrett Summer Scholars Camp Series(https://eoss.asu.edu/bss), aimed at 9th graders.  In both sessions, students will work through a number of modules, including: 
+
+* Origami & Folding  
+* Biomechanics and Bioinspiration  
+* Prototyping and Making
+* Microcontrollers and Programming in Python
+* Motors and RC Servos  
+* Making Tools & Manufacturing  
+* Physics and Modeling  
+* Experimentation
+* Leg Design  
+* Circuits & Sensors   
+* Parent Showcase
+
+I am integrating data collection via a final student and parent survey, administered again through ASU's CREST evaluation team.  I hope to gain valuable insights in this inaugural camp year in fine tuning and expanding this program in subsequent years.
+
+Further information on the camp can be found on my website at https://idealab.asu.edu/events/.  I have also attached the schedule and lesson plan in supplementary materials.
 
 # What is the impact on physical resources that form infrastructure?
 
@@ -146,20 +163,22 @@ Fin
 
 # What is the impact on institutional resources that form infrastructure?more information about the impact on institutional resources that form infrastructure
 
-Describe ways, if any, in which the project made an impact, or is likely to make an impact, on institutional resources that form infrastructure,
+> Describe ways, if any, in which the project made an impact, or is likely to make an impact, on institutional resources that form infrastructure,
 
 # What is the impact on information resources that form infrastructure?more information about the impact on information resources that form infrastructure
 
-Describe ways, if any, in which the project made an impact, or is likely to make an impact, on information resources that form infrastructure,
+> Describe ways, if any, in which the project made an impact, or is likely to make an impact, on information resources that form infrastructure,
 
 # What is the impact on technology transfer? more information about the impact on technology transfer
 
-Describe ways in which the project made an impact, or is likely to make an impact, on commercial technology or public use.
+> Describe ways in which the project made an impact, or is likely to make an impact, on commercial technology or public use.
 
 # What is the impact on society beyond science and technology? more information about the impact on society beyond science and technology
 
-Describe how results from the project made an impact, or are likely to make an impact, beyond the bounds of science, engineering, and the academic world.
+> Describe how results from the project made an impact, or are likely to make an impact, beyond the bounds of science, engineering, and the academic world.
 
-# What percentage of the award\'s budget was spent in a foreign country? more information about What percentage of the award\'s budget was spent in a foreign country more information about what percentage of the award\'s budget was spent in a foreign country, specific to NSF
+# What percentage of the award\'s budget was spent in a foreign country? 
 
-Describe what percentage of the award's budget was spent in foreign country(ies) for this reporting period. If more than one foreign country was involved, identify the distribution of funding between the foreign countries.
+> more information about What percentage of the award\'s budget was spent in a foreign country more information about what percentage of the award\'s budget was spent in a foreign country, specific to NSF
+> 
+> Describe what percentage of the award's budget was spent in foreign country(ies) for this reporting period. If more than one foreign country was involved, identify the distribution of funding between the foreign countries.
