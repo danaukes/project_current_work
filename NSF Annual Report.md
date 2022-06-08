@@ -59,7 +59,11 @@ We have also developed a new set of script-based tools that permit the rapid tra
 
 The project is allowing a group of Ph.D. students to work collectively and collaborate to solve a number of challenging engineering problems. They have received training on the design cycle of foldable robots and are using that methodology as they proceed through iterative cycles of engineering research & design, including tasks like modeling & analysis, design, prototyping, manufacturing planning, control, experimental validation, etc.
 
-This group includes students who have already authored peer-reviewed work in related topics; these students are helping to mentor and train the newer students. Training in Y1 has focused on teaching fabrication techniques and tools common within our lab (3d printing, laminate fabrication, laser cutting, etc), experimental data collection methods and tools (camera-based tracking, linear stage and mobile robot programming, taking force/torque measurements, etc), as well as laboratory best practices for working with and sharing code, using existing software packages, etc. Mentoring topics include how to craft a good research question, writing, and presenting, etc. Students get regular feedback from PI Aukes in weekly PI meetings as well as from their peers in weekly lab meetings. Students are encouraged to present their work to the group and provide feedback to each other, to encourage cross-pollination of good ideas and best practices across the lab, and to develop a culture of high-quality research.
+This group includes students who have already authored peer-reviewed work in related topics; these students are helping to mentor and train the newer students. Training in Y2 has focused on teaching fabrication techniques and tools common within our lab (3d printing, laminate fabrication, laser cutting, etc), experimental data collection methods and tools (camera-based tracking, linear stage and mobile robot programming, taking force/torque measurements, etc), as well as laboratory best practices for working with and sharing code, using existing software packages, etc. Mentoring topics include how to craft a good research question, writing, and presenting, etc. Students get regular feedback from PI Aukes in weekly PI meetings as well as from their peers in weekly lab meetings. Students are encouraged to present their work to the group and provide feedback to each other, to encourage cross-pollination of good ideas and best practices across the lab, and to develop a culture of high-quality research.
+
+Two students assigned to this project accompanied me to ICRA 2022 this year, and presented their work in workshops, attended sessions, etc.  This was their first opportunity to attend a conference in person since they began their PhDs, due to COVID and their international travel limitations.
+
+Other training opportunities are mentioned in the subsequent section on development of human resources.
 
 ## Have the results been disseminated to communities of interest? If so, please provide details.
 
@@ -119,7 +123,7 @@ We envision the results of this project will impact fields in which specializati
 > 
 > Describe how the project made an impact or is likely to make an impact on human resource development in science, engineering, and technology.
 
-Through the development of a robotics day camp, described in more detail below, I am training two local teachers in the technology, curriculum, and delivery of a foldable-robotics focused curriculum in a one-week day camp.  These teachers will be accompanying me each day in the classroom this year, learning in parallel with the campers.  After the conclusion of the day camp, I anticipate these teachers will be able to take what they have learned back to their home schools (one of the teachers is at a middle school, while the other works with middle and high schoolers), help develop new modules, and ultimately form a new tier of teaching associates who can help train and deploy the camp to new locales or an expanded program.  My aim is to grow this teacher training along with camper enrollment, in the form of new sites, expanded age ranges, and/or multiple sites/sessions throughout the summer.
+Through the development of a robotics day camp, described in more detail below, I am training two local teachers in the technology, curriculum, and delivery of a foldable-robotics focused curriculum in a one-week day camp.  These teachers will be accompanying me each day in the classroom this year, learning in parallel with the campers.  After the conclusion of the day camp, I anticipate these teachers will be able to take what they have learned back to their home schools (one of the teachers is at a middle school, while the other works with grades 7-12), help develop new modules, and ultimately form a new tier of teaching associates who can help train and deploy the camp to new locales or an expanded program.  My aim is to grow this teacher training along with camper enrollment, in the form of new sites, expanded age ranges, and/or multiple sites/sessions throughout the summer.
 
 The graduate researchers involved in this project are working collaboratively to solve a challenging and multifaceted technical problem. Through their research they are being trained in how to develop their own research program. The mentorship and training they receive helps develop their presentation skills in oral and written form, ensures they have the technical skills and abilities to interpret and visualize complex physical phenomena sampled through experimentation and data collection. Furthermore, their analytical and interpretive skills developed through these activities will lead to better critical thinking skills, useful in design and creative pursuits. These skillsets will contribute to the national workforce, whether it be industry or research.
 
@@ -130,7 +134,7 @@ The graduate researchers involved in this project are working collaboratively to
 > Describe how the project made an impact or is likely to make an impact on teaching and educational experiences.
 
 
-I have embarked on a number of new initiatives surrounding this project. 
+I have embarked on a number of new teaching and educational initiatives on themes supported by this project. 
 
 First, I currently teach _Foldable Robotics_, a graduate-level course that introduces the concept of rapidly-prototypable, multi-material, compliant robots to students.  This course draws directly upon topics from my current research for its curriculum while training the students who take it for performing research in my lab, or labs like mine. It also serves as a testing ground for determining the effectiveness of foldable robotics as a teaching approach through IRB-approved data collection in conjunction with ASU CREST(https://crest.asu.edu/). Other direct connections can be seen in course projects, which often generate critical “preliminary results”, demonstrating feasibility that I can then point to in proposals; this has previously resulted in both new funding and IP generation. Most notably, 24 of my published, refereed papers are co-authored by students who have taken my graduate foldable robots courses in the past.  I anticipate this number to grow substantially over the course of this current project.
 
@@ -164,21 +168,39 @@ Further information on the camp can be found on my website at https://idealab.as
 
 > Describe ways, if any, in which the project made an impact, or is likely to make an impact, on physical resources that form infrastructure, Including physical resources such as facilities, laboratories, or instruments.
 
+
+This project is likely to reduce the cost of physical infrastructure required to teach the fundamentals of robotics design.
+
+
 # What is the impact on institutional resources that form infrastructure?more information about the impact on institutional resources that form infrastructure
 
 > Describe ways, if any, in which the project made an impact, or is likely to make an impact, on institutional resources that form infrastructure,
+
+By focusing on affordable fabrication strategies such as origami-inspired or laminate fabrication techniques, the startup costs associated with developing a new facility capable of teaching these concepts can be dramatically reduced.
 
 # What is the impact on information resources that form infrastructure?more information about the impact on information resources that form infrastructure
 
 > Describe ways, if any, in which the project made an impact, or is likely to make an impact, on information resources that form infrastructure,
 
+I continue to develop the course website for foldable robotics, located at https://foldable-robotics.github.io/, and have added and updated many of the pages on the site to reflect the newest additions to the class, improvements in the way I am teaching the course, etc.
+
+I plan to develop a companion website for the summer camp as well, though this will not be complete until next year.
+
 # What is the impact on technology transfer? more information about the impact on technology transfer
 
 > Describe ways in which the project made an impact, or is likely to make an impact, on commercial technology or public use.
 
+This work related to this project likely to lead to new IP on the topic of origami-inspired design and optimization by the end of the project.
+
+I am already listed on three patents, two patent applications, and one provisional patent that is related to prior work on foldable robotic topics, all with current or former students of the foldable robotics course and/or my PhD students; I believe this demonstrates my committment and level of activity in submitting relevant work to ASU's IP management office.  
+
 # What is the impact on society beyond science and technology? more information about the impact on society beyond science and technology
 
 > Describe how results from the project made an impact, or are likely to make an impact, beyond the bounds of science, engineering, and the academic world.
+
+Robot kits for competing in national robotics competitions can be prohibitively expensive in underserved communities. The leg designs developed through this project will serve as a more affordable starting point for kids to compete in local “robot track and field meets”. These competitions will challenge kids to solve locomotion challenges unique to the desert Southwest by running the competitions in free, public, open spaces.
+
+I have developed V1 of this kit and will be demo'ing it for the first time this June.  I will share information about the kit and accompanying lesson plan once I receive feedback and finish developing the Camp website in the following year.
 
 # What percentage of the award\'s budget was spent in a foreign country? 
 
