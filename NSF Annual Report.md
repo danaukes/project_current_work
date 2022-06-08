@@ -47,7 +47,7 @@ The following are the objectives driving the above foot design activities:
 
 ## Significant results
 
-We are wrapping up a set of design, data collection, and analysis activities surrounding laminate leg design that is culminating in our first journal paper submission, to be submitted this month. Current results are attached in supplemental documentation.
+We are wrapping up a set of design, data collection, and analysis activities surrounding laminate leg design that is culminating in our first journal paper submission, to be submitted this month. Current results in the form of our draft paper are attached in supplemental documentation.
 
 ## Key outcomes or Other achievements
 
@@ -138,7 +138,7 @@ I have embarked on a number of new teaching and educational initiatives on theme
 
 First, I currently teach _Foldable Robotics_, a graduate-level course that introduces the concept of rapidly-prototypable, multi-material, compliant robots to students.  This course draws directly upon topics from my current research for its curriculum while training the students who take it for performing research in my lab, or labs like mine. It also serves as a testing ground for determining the effectiveness of foldable robotics as a teaching approach through IRB-approved data collection in conjunction with ASU CREST(https://crest.asu.edu/). Other direct connections can be seen in course projects, which often generate critical “preliminary results”, demonstrating feasibility that I can then point to in proposals; this has previously resulted in both new funding and IP generation. Most notably, 24 of my published, refereed papers are co-authored by students who have taken my graduate foldable robots courses in the past.  I anticipate this number to grow substantially over the course of this current project.
 
-CREST's final report from _Foldable Robotics 2021_ as well as the mid-semester and final report from _Foldable Robotics 2022_ are attached in supplemental documents.  These reports will be used to improve the curriculum in future iterations of the course.
+CREST's final report from _Foldable Robotics 2022_ are attached in supplemental documents (The 2021 report was previously emailed to I. Dolinskaya and can be provided again if needed.).  These reports will be used to improve the curriculum in future iterations of the course.
 
 My second initiative this year was to serve as a mentor for a senior engineering capstone team, for the purposes of developing a kit of parts and teaching plan for a summer camp aimed at middle schoolers, surrounding the topic of Foldable Robotics.  This team was provided supplementary funding through this CAREER project in order to complete their project.  As part of this effort, I met with the team roughly every three weeks to discuss their progress, provide feedback, and guide their project.  Through this project, students applied their knowledge of the engineering design process to speak with stakeholders, develop specifications, ideate and brainstorm design concepts, create prototypes, obtain feedback from stakeholders, and revise their designs.  They were able to present their proposed kit of parts and lesson plan to this summer's camp teaching team and obtain valuable feedback based on the teachers' level of comfort with the topics and technology involved.
 
@@ -162,7 +162,7 @@ Finally, as mentioned previously, I am organizing a "foldable robotics day camp"
 
 I am integrating data collection via a final student and parent survey, administered again through ASU's CREST evaluation team.  I hope to gain valuable insights in this inaugural camp year in fine tuning and expanding this program in subsequent years.
 
-Further information on the camp can be found on my website at https://idealab.asu.edu/events/.  I have also attached the schedule and lesson plan in supplementary materials.
+Further information on the camp can be found on my website at https://idealab.asu.edu/events/.  I have also attached the final lesson plan developed by the Capstone team in supplementary materials.
 
 # What is the impact on physical resources that form infrastructure?
 
